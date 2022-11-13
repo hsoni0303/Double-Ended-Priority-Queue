@@ -1,1 +1,1 @@
-# Double_Ended_Priority_Queue
+# Double Ended Priority Queue
